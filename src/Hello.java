@@ -1,11 +1,8 @@
-package PrimeiroModulo;
-
 public class Hello {
     public static void main(String[] args) {
 
         boolean isAlien = false;
-        //noinspection PointlessBooleanExpression
-        if (isAlien == false) { // sem ;
+        if (!isAlien) { // sem ;
             System.out.println("it is not an Alien");
             System.out.println("and i'm scared of aliens");
         }
@@ -103,14 +100,14 @@ public class Hello {
 
         {
             boolean isCar = false;
-            if (isCar == true) {
+            if (!isCar) {
                 System.out.println("This is not supposed to happen");
             }
         }
 
         {
             boolean isCar = false;
-            if (isCar == false) {
+            if (!isCar) {
                 System.out.println("This is supposed to happen");
             }
         }

@@ -1,5 +1,3 @@
-package PrimeiroModulo;
-
 @SuppressWarnings("ALL")
 public class PrimeirasAulas {
     public static void main(String[] args) {

@@ -1,6 +1,4 @@
-package PrimeiroModulo;
-
-public class ifChallenge {
+public class FinalScore {
     public static void main(String[] args) {
 
         boolean gameOver = true;

@@ -1,4 +1,4 @@
-public class DesafioMetodos {
+public class CalculateHighScorePosition {
 
 
     public static void displayHighScorePosition(String name, int position) {

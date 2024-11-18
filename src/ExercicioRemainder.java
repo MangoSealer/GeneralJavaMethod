@@ -1,6 +1,4 @@
-package PrimeiroModulo;
-
-public class ExercicioPrimeiroModulo {
+public class ExercicioRemainder {
     public static void main(String[] args) {
 
 
